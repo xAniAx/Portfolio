@@ -6,7 +6,7 @@ I would like to change industries and conquer the IT world.
 # Tools
 * **[Postman](https://www.postman.com/)** - Testing tool for REST API
 * **[Jira](https://www.atlassian.com/software/jira)**,**[Trello](https://trello.com/)** - Issue tracking and project management tool for developers
-* **[Github]**
+* **Github**
 * **[PicPick](https://picpick.app/pl/)** - Screen capture software
 # Tech skills
 * DevTools
