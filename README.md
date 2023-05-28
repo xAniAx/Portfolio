@@ -5,3 +5,4 @@ I am an ambitious and enthusiastic person. I am not afraid of new challenges. I 
 I would like to change industries and conquer the IT world.
 # Tools
 * **[Postman](https://www.postman.com/)** - Testing tool for REST API
+* **[Jira](https://www.atlassian.com/software/jira)**,**[Trello](https://trello.com/) - Issue tracking and project management tool for developers
